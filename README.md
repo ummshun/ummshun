@@ -18,4 +18,4 @@ I spent years on the *selling* side — leading a ~50-person marketing org, runn
 
 国内スタートアップでCMOとしてマーケ組織（約50名）を統括 → いまは Claude Code / Codex で自動化ツールやサイトを自分で作っています。UCLA → 法政大学。業務委託・共同事業・海外プロダクトの日本展開、気軽にどうぞ。
 
-📫 [X @ummshun](https://x.com/ummshun) · ummshun@gmail.com
+📫 [X @ummshun](https://x.com/ummshun) · [LinkedIn](https://www.linkedin.com/in/ummshun) · ummshun@gmail.com
