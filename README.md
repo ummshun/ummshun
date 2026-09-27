@@ -10,6 +10,15 @@ I spent years on the *selling* side — leading a ~50-person marketing org, runn
 - 🌐 Websites and landing pages, from design to measurement
 - 🌏 Japan go-to-market for overseas software
 
+**Open-source**
+| Repo | What it does |
+|---|---|
+| [mcp-janitor](https://github.com/ummshun/mcp-janitor) | Reaps stale MCP servers and runaway agent processes on long-running Macs |
+| [discord-codex-bot](https://github.com/ummshun/discord-codex-bot) | Talk to your local Codex / Claude Code from Discord |
+| [claude-code-skills](https://github.com/ummshun/claude-code-skills) | Small, battle-tested Claude Code skills |
+| [gsc-automation](https://github.com/ummshun/gsc-automation) | Search Console CLI for sitemaps, analytics and URL inspection |
+| [ga-connect](https://github.com/ummshun/ga-connect) | Bulk-create GA4 properties and streams, idempotently |
+
 **Stack** — TypeScript · Node.js · Python · Playwright · Next.js · Cloudflare · Claude / OpenAI APIs
 
 **Open to** contract work, joint ventures, and helping overseas products launch in Japan.
